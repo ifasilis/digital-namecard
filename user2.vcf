@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Βασίλης;Μπογιατζής;;;
+FN: Βασίλης  Μπογιατζής 
+EMAIL;type=INTERNET;type=WORK;type=pref:bogiatzisvasilis@gmail.com
+TEL;type=WORK;type=VOICE:6972267001
+item1.ADR;type=WORK;type=pref:;;
+item1.X-ABADR:sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
